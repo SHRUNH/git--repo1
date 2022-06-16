@@ -1,1 +1,2 @@
-# git--repo1
+# git-repo1
+Hiii..this is the 1st repo.
